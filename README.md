@@ -4,6 +4,8 @@
 
 Dendrolog is a Go package for debugging trees, by printing them into an ASCII-art-like representation.
 
+Implemented as final project of the course [DD1327 - Fundamentals of computer science](https://www.kth.se/social/course/DD1327/) at KTH Royal Institute of Technology.
+
 ## Examples
 
 Take a treap as an example:
